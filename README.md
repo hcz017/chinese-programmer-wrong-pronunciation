@@ -72,6 +72,7 @@
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
 新增
+
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | absent [🔊](http://dict.youdao.com/dictvoice?audio=absent&type=1) | ✅ [ˈæbsənt] | ❌ [əb'sənt] |
