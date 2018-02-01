@@ -82,6 +82,7 @@
 | button [🔊](http://dict.youdao.com/dictvoice?audio=button&type=1)| ✅ ['bʌt(ə)n] | ❌ ['but(ə)n] |
 | child [🔊](http://dict.youdao.com/dictvoice?audio=child&type=1)| ✅ [tʃaɪld] | ❌ [tʃɪld]|
 | command [🔊](http://dict.youdao.com/dictvoice?audio=command&type=1)| ✅ [kə'mɑːnd] | |
+| commit [🔊](http://dict.youdao.com/dictvoice?audio=commit&type=1)| ✅ [kə'mɪt] | ❌ ['kɒmɪt]|
 | compile [🔊](http://dict.youdao.com/dictvoice?audio=compile&type=1)| ✅ [kəm'paɪl] | |
 | dialog [🔊](http://dict.youdao.com/dictvoice?audio=dialog&type=1)| ✅ ['daɪəlɒg] | |
 | emergency [🔊](http://dict.youdao.com/dictvoice?audio=emergency&type=1)| ✅ [ɪ'mɜː(r)dʒ(ə)nsi] | |
