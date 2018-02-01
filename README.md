@@ -71,6 +71,40 @@
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
+新增
+| 单词  | 正确发音 | 错误发音 |
+| ---- | ------- | ------- |
+| absent [🔊](http://dict.youdao.com/dictvoice?audio=absent&type=1) | ✅ [ˈæbsənt] | ❌ [əb'sənt] |
+| adapter [🔊](http://dict.youdao.com/dictvoice?audio=adapter&type=1) | ✅ [ə'dæptə(r)] | ❌ ə'dʌptə(r) |
+| back [🔊](http://dict.youdao.com/dictvoice?audio=back&type=1)| ✅  [bæk] | ❌ [bæŋk] |
+| binder [🔊](http://dict.youdao.com/dictvoice?audio=binder&type=1)| ✅ ['baɪndə(r)] | ❌ 'bɒŋdə(r)|
+| button [🔊](http://dict.youdao.com/dictvoice?audio=button&type=1)| ✅ ['bʌt(ə)n] | ❌ ['but(ə)n] |
+| child [🔊](http://dict.youdao.com/dictvoice?audio=child&type=1)| ✅ [tʃaɪld] | ❌ [tʃɪld]|
+| command [🔊](http://dict.youdao.com/dictvoice?audio=command&type=1)| ✅ [kə'mɑːnd] | |
+| compile [🔊](http://dict.youdao.com/dictvoice?audio=compile&type=1)| ✅ [kəm'paɪl] | |
+| dialog [🔊](http://dict.youdao.com/dictvoice?audio=dialog&type=1)| ✅ ['daɪəlɒg] | |
+| emergency [🔊](http://dict.youdao.com/dictvoice?audio=emergency&type=1)| ✅ [ɪ'mɜː(r)dʒ(ə)nsi] | |
+| factory [🔊](http://dict.youdao.com/dictvoice?audio=factory&type=1)| ✅ ['fæktri] | |
+| fail [🔊](http://dict.youdao.com/dictvoice?audio=fail&type=1)| ✅ [feɪl] | ❌ [fɪl]|
+| file [🔊](http://dict.youdao.com/dictvoice?audio=file&type=1)| ✅ [faɪl] | ❌ [fɪl]|
+| fragment [🔊](http://dict.youdao.com/dictvoice?audio=fragment&type=1)| ✅ ['fræɡmənt] | ❌ ['frædʒimənt]|
+| git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
+| pass [🔊](http://dict.youdao.com/dictvoice?audio=pass&type=1)| ✅ [pɑːs], [pæs] | |
+| path [🔊](http://dict.youdao.com/dictvoice?audio=path&type=1)| ✅ [pɑːθ], [pæθ] | |
+| pause(onPause) [🔊](http://dict.youdao.com/dictvoice?audio=pause&type=1)| ✅ [pɔːz] | |
+| present [🔊](http://dict.youdao.com/dictvoice?audio=present&type=1)| ✅ [prɪ'zent] | |
+| presenter [🔊](http://dict.youdao.com/dictvoice?audio=presenter&type=1)| ✅ [prɪ'zentə(r)] | |
+| progress [🔊](http://dict.youdao.com/dictvoice?audio=progress&type=1)| ✅ [prəʊ'ɡres] | |
+| provider [🔊](http://dict.youdao.com/dictvoice?audio=provider&type=1)| ✅ [prə'vaɪdə(r)] | |
+| queue [🔊](http://dict.youdao.com/dictvoice?audio=queue&type=1)| ✅  [kju], 同Q | |
+| RAM [🔊](http://dict.youdao.com/dictvoice?audio=RAM&type=1)| ✅ [ræm] | |
+| ROM [🔊](http://dict.youdao.com/dictvoice?audio=ROM&type=1)| ✅ [rɒm] | ❌ [rum] |
+| service [🔊](http://dict.youdao.com/dictvoice?audio=service&type=1)| ✅ ['sɜː(r)vɪs] | ❌ [sɜː(r)'vaɪs]|
+| slot [🔊](http://dict.youdao.com/dictvoice?audio=slot&type=1)| ✅ [slɒt] | |
+| subscription [🔊](http://dict.youdao.com/dictvoice?audio=subscription&type=1)| ✅ [səb'skrɪpʃ(ə)n] | |
+| trace [🔊](http://dict.youdao.com/dictvoice?audio=trace&type=1)| ✅ [treɪs] | |
+| tracker [🔊](http://dict.youdao.com/dictvoice?audio=tracker&type=1)| ✅ ['trækə(r)]| |
+
 
 > 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性.
 > 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
